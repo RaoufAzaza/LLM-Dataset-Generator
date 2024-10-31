@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+together
+pandas
+scikit-learn
+transformers
+spacy
+nltk
+python-dotenv
+torch
+fitz
+pymupdf
